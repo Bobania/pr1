@@ -5,9 +5,25 @@ window.geometry("600x400")
 
 d = {}
 
+def button1_click():
+    d.update({entry1.get(): entry11.get()})
+    d.update({entry2.get(): entry12.get()})
+    d.update({entry3.get(): entry13.get()})
+    d.update({entry4.get(): entry14.get()})
+    d.update({entry5.get(): entry15.get()})
+    d.update({entry6.get(): entry16.get()})
+    d.update({entry7.get(): entry17.get()})
+    d.update({entry8.get(): entry18.get()})
+    d.update({entry9.get(): entry19.get()})
+    d.update({entry10.get(): entry20.get()})
 
+button1 = Button(window, text="Сохранить", command=button1_click)
+button1.place(relheight=0.1, relwidth=0.15, relx=0.8, rely=0.0)
 
-
+def button2_click():
+    print(d.items())
+button2 = Button(window, text="Все Записи", command=button2_click)
+button2.place(relheight=0.1, relwidth=0.15, relx=0.8, rely=0.12)
 
 lbl = Label(window, text="1.",font=("Arial Bold", 20))
 lbl.grid(column=0, row=0)
@@ -51,6 +67,26 @@ entry9.place(relheight=0.06, relwidth=0.3, relx=0.08, rely=0.78)
 entry10 = Entry(window)
 entry10.place(relheight=0.06, relwidth=0.3, relx=0.08, rely=0.87)
 
+entry11 = Entry(window)
+entry11.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.02)
+entry12 = Entry(window)
+entry12.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.11)
+entry13 = Entry(window)
+entry13.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.21)
+entry14 = Entry(window)
+entry14.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.31)
+entry15 = Entry(window)
+entry15.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.4)
+entry16 = Entry(window)
+entry16.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.49)
+entry17 = Entry(window)
+entry17.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.59)
+entry18 = Entry(window)
+entry18.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.68)
+entry19 = Entry(window)
+entry19.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.78)
+entry20 = Entry(window)
+entry20.place(relheight=0.06, relwidth=0.3, relx=0.39, rely=0.87)
 
 
 
