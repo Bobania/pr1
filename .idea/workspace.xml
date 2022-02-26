@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbb44b5e-8a8c-4e72-8b33-2bf9f685a323" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="25e7YQEdC91T9Aab5O2EL6IVgjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pr1" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PycharmProjects\pythonProject3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\student\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb44b5e-8a8c-4e72-8b33-2bf9f685a323" name="Default Changelist" comment="" />
+      <created>1645875744485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645875744485</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pr111" />
+    <option name="LAST_COMMIT_MESSAGE" value="pr111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="442" key="FileChooserDialogImpl" timestamp="1645877794669">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1645877794669" />
+    <state x="1145" y="598" key="Github.ShareDialog" timestamp="1645876070325">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1145" y="598" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1645876070325" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1645877624392">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1645877624392" />
+    <state x="1110" y="491" key="svn.repositoryBrowser" timestamp="1645877784703">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1110" y="491" key="svn.repositoryBrowser/0.0.2560.1400@0.0.2560.1400" timestamp="1645877784703" />
+    <state x="1133" y="474" key="svn4idea.import.options" timestamp="1645876029346">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1133" y="474" key="svn4idea.import.options/0.0.2560.1400@0.0.2560.1400" timestamp="1645876029346" />
+  </component>
+</project>
