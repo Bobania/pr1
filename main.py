@@ -45,7 +45,7 @@ lbl = Label(window, text="9.",font=("Arial Bold", 20))
 lbl.grid(column=0, row=9)
 lbl = Label(window, text="10.",font=("Arial Bold", 20))
 lbl.grid(column=0, row=10)
-
+#biugaagdasdaddadadwfefew
 entry1 = Entry(window)
 entry1.place(relheight=0.06, relwidth=0.3, relx=0.08, rely=0.02)
 entry2 = Entry(window)
